@@ -40,7 +40,7 @@ From this it is evident that only a small amount of data was considered. This is
 ## Step 1: Run the Python Script
 To run the script, ensure that all the CSV and XML files are in place, and execute the following command:
 ```console
-python main.py
+python patient_matching.py
 ```
 
 ## Step 2: Check Results
