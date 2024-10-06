@@ -326,7 +326,7 @@ def generate_claude_explanation(patient, eligibility_results):
     """
         
         
-    client = Anthropic(api_key="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")
+    client = Anthropic(api_key="enter_your_key")
     
     user_message = f"""
     For the following patient, please explain in detail why they are eligible or not for the clinical trial.
