@@ -63,3 +63,12 @@ After checking eligibility, the system generates a natural language explanation 
 
 ## Output:
 The results, including the list of eligible trials per patient, are saved in an Excel file and a JSON file.
+
+# Testing
+To run the unittests please run the following command:
+
+```console
+python -m unittest discover -s tests
+```
+
+
